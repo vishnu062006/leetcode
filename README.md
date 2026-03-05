@@ -11,4 +11,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vishnu062006/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+## String
+|  |
+| ------- |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/vishnu062006/leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 <!---LeetCode Topics End-->
