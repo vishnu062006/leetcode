@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/vishnu062006/leetcode/tree/master/0014-longest-common-prefix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vishnu062006/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/vishnu062006/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1980-find-unique-binary-string](https://github.com/vishnu062006/leetcode/tree/master/1980-find-unique-binary-string) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/vishnu062006/leetcode/tree/master/0014-longest-common-prefix) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/vishnu062006/leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/vishnu062006/leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/vishnu062006/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/vishnu062006/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/vishnu062006/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
