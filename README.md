@@ -132,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vishnu062006/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/vishnu062006/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/vishnu062006/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
