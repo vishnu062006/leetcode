@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/vishnu062006/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/vishnu062006/leetcode/tree/master/0739-daily-temperatures) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vishnu062006/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/vishnu062006/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/vishnu062006/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1980-find-unique-binary-string](https://github.com/vishnu062006/leetcode/tree/master/1980-find-unique-binary-string) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/vishnu062006/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -111,9 +112,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/vishnu062006/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/vishnu062006/leetcode/tree/master/0739-daily-temperatures) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/vishnu062006/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/vishnu062006/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/vishnu062006/leetcode/tree/master/0739-daily-temperatures) |
+## Queue
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/vishnu062006/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Simulation
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/vishnu062006/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
