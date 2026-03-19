@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vishnu062006/leetcode/tree/master/0014-longest-common-prefix) |
+| [0084-largest-rectangle-in-histogram](https://github.com/vishnu062006/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/vishnu062006/leetcode/tree/master/0739-daily-temperatures) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vishnu062006/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/vishnu062006/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -108,9 +109,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/vishnu062006/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/vishnu062006/leetcode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/vishnu062006/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/vishnu062006/leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
