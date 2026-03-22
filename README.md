@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/vishnu062006/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2485-find-the-pivot-integer](https://github.com/vishnu062006/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/vishnu062006/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/vishnu062006/leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/vishnu062006/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1622-fancy-sequence](https://github.com/vishnu062006/leetcode/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/vishnu062006/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2485-find-the-pivot-integer](https://github.com/vishnu062006/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/vishnu062006/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Heap (Priority Queue)
 |  |
