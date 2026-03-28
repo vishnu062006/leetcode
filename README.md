@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1323-maximum-69-number](https://github.com/vishnu062006/leetcode/tree/master/1323-maximum-69-number) |
 | [2573-find-the-string-with-lcp](https://github.com/vishnu062006/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/vishnu062006/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/vishnu062006/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/vishnu062006/leetcode/tree/master/0009-palindrome-number) |
+| [1323-maximum-69-number](https://github.com/vishnu062006/leetcode/tree/master/1323-maximum-69-number) |
 | [1622-fancy-sequence](https://github.com/vishnu062006/leetcode/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/vishnu062006/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2485-find-the-pivot-integer](https://github.com/vishnu062006/leetcode/tree/master/2485-find-the-pivot-integer) |
