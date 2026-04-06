@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/vishnu062006/leetcode/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/vishnu062006/leetcode/tree/master/0455-assign-cookies) |
 | [0739-daily-temperatures](https://github.com/vishnu062006/leetcode/tree/master/0739-daily-temperatures) |
+| [0874-walking-robot-simulation](https://github.com/vishnu062006/leetcode/tree/master/0874-walking-robot-simulation) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vishnu062006/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/vishnu062006/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vishnu062006/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0874-walking-robot-simulation](https://github.com/vishnu062006/leetcode/tree/master/0874-walking-robot-simulation) |
 | [1980-find-unique-binary-string](https://github.com/vishnu062006/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/vishnu062006/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/vishnu062006/leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/vishnu062006/leetcode/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/vishnu062006/leetcode/tree/master/0874-walking-robot-simulation) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vishnu062006/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/vishnu062006/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/vishnu062006/leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
