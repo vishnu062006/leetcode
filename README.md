@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/vishnu062006/leetcode/tree/master/0014-longest-common-prefix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vishnu062006/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0134-gas-station](https://github.com/vishnu062006/leetcode/tree/master/0134-gas-station) |
+| [0179-largest-number](https://github.com/vishnu062006/leetcode/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/vishnu062006/leetcode/tree/master/0455-assign-cookies) |
 | [0739-daily-temperatures](https://github.com/vishnu062006/leetcode/tree/master/0739-daily-temperatures) |
 | [0874-walking-robot-simulation](https://github.com/vishnu062006/leetcode/tree/master/0874-walking-robot-simulation) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vishnu062006/leetcode/tree/master/0014-longest-common-prefix) |
+| [0179-largest-number](https://github.com/vishnu062006/leetcode/tree/master/0179-largest-number) |
 | [0657-robot-return-to-origin](https://github.com/vishnu062006/leetcode/tree/master/0657-robot-return-to-origin) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/vishnu062006/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/vishnu062006/leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/vishnu062006/leetcode/tree/master/0134-gas-station) |
+| [0179-largest-number](https://github.com/vishnu062006/leetcode/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/vishnu062006/leetcode/tree/master/0455-assign-cookies) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/vishnu062006/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/vishnu062006/leetcode/tree/master/1323-maximum-69-number) |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/vishnu062006/leetcode/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/vishnu062006/leetcode/tree/master/0455-assign-cookies) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/vishnu062006/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2751-robot-collisions](https://github.com/vishnu062006/leetcode/tree/master/2751-robot-collisions) |
