@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vishnu062006/leetcode/tree/master/0014-longest-common-prefix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vishnu062006/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0118-pascals-triangle](https://github.com/vishnu062006/leetcode/tree/master/0118-pascals-triangle) |
 | [0134-gas-station](https://github.com/vishnu062006/leetcode/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/vishnu062006/leetcode/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/vishnu062006/leetcode/tree/master/0455-assign-cookies) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/vishnu062006/leetcode/tree/master/0118-pascals-triangle) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/vishnu062006/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/vishnu062006/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2463-minimum-total-distance-traveled](https://github.com/vishnu062006/leetcode/tree/master/2463-minimum-total-distance-traveled) |
