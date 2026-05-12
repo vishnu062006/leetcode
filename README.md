@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/vishnu062006/leetcode/tree/master/0009-palindrome-number) |
+| [0060-permutation-sequence](https://github.com/vishnu062006/leetcode/tree/master/0060-permutation-sequence) |
 | [0263-ugly-number](https://github.com/vishnu062006/leetcode/tree/master/0263-ugly-number) |
 | [0396-rotate-function](https://github.com/vishnu062006/leetcode/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/vishnu062006/leetcode/tree/master/0788-rotated-digits) |
@@ -322,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1559-detect-cycles-in-2d-grid](https://github.com/vishnu062006/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/vishnu062006/leetcode/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
