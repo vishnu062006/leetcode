@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/vishnu062006/leetcode/tree/master/0455-assign-cookies) |
 | [0739-daily-temperatures](https://github.com/vishnu062006/leetcode/tree/master/0739-daily-temperatures) |
 | [0874-walking-robot-simulation](https://github.com/vishnu062006/leetcode/tree/master/0874-walking-robot-simulation) |
+| [1345-jump-game-iv](https://github.com/vishnu062006/leetcode/tree/master/1345-jump-game-iv) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/vishnu062006/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vishnu062006/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/vishnu062006/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0874-walking-robot-simulation](https://github.com/vishnu062006/leetcode/tree/master/0874-walking-robot-simulation) |
+| [1345-jump-game-iv](https://github.com/vishnu062006/leetcode/tree/master/1345-jump-game-iv) |
 | [1980-find-unique-binary-string](https://github.com/vishnu062006/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2540-minimum-common-value](https://github.com/vishnu062006/leetcode/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/vishnu062006/leetcode/tree/master/2615-sum-of-distances) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1345-jump-game-iv](https://github.com/vishnu062006/leetcode/tree/master/1345-jump-game-iv) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/vishnu062006/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Recursion
 |  |
