@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/vishnu062006/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vishnu062006/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vishnu062006/leetcode/tree/master/0027-remove-element) |
+| [0074-search-a-2d-matrix](https://github.com/vishnu062006/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vishnu062006/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/vishnu062006/leetcode/tree/master/0118-pascals-triangle) |
 | [0134-gas-station](https://github.com/vishnu062006/leetcode/tree/master/0134-gas-station) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/vishnu062006/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/vishnu062006/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vishnu062006/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/vishnu062006/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/vishnu062006/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/vishnu062006/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/vishnu062006/leetcode/tree/master/2540-minimum-common-value) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/vishnu062006/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
