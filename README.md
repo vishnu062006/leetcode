@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/vishnu062006/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/vishnu062006/leetcode/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/vishnu062006/leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/vishnu062006/leetcode/tree/master/0322-coin-change) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/vishnu062006/leetcode/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/vishnu062006/leetcode/tree/master/0060-permutation-sequence) |
+| [0070-climbing-stairs](https://github.com/vishnu062006/leetcode/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/vishnu062006/leetcode/tree/master/0263-ugly-number) |
 | [0396-rotate-function](https://github.com/vishnu062006/leetcode/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/vishnu062006/leetcode/tree/master/0788-rotated-digits) |
@@ -356,4 +358,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/vishnu062006/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vishnu062006/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vishnu062006/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
