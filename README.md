@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/vishnu062006/leetcode/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/vishnu062006/leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/vishnu062006/leetcode/tree/master/0322-coin-change) |
+| [0357-count-numbers-with-unique-digits](https://github.com/vishnu062006/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0396-rotate-function](https://github.com/vishnu062006/leetcode/tree/master/0396-rotate-function) |
 | [0494-target-sum](https://github.com/vishnu062006/leetcode/tree/master/0494-target-sum) |
 | [0788-rotated-digits](https://github.com/vishnu062006/leetcode/tree/master/0788-rotated-digits) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/vishnu062006/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/vishnu062006/leetcode/tree/master/0494-target-sum) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/vishnu062006/leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/vishnu062006/leetcode/tree/master/1980-find-unique-binary-string) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/vishnu062006/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/vishnu062006/leetcode/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/vishnu062006/leetcode/tree/master/0263-ugly-number) |
+| [0357-count-numbers-with-unique-digits](https://github.com/vishnu062006/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0396-rotate-function](https://github.com/vishnu062006/leetcode/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/vishnu062006/leetcode/tree/master/0788-rotated-digits) |
 | [1323-maximum-69-number](https://github.com/vishnu062006/leetcode/tree/master/1323-maximum-69-number) |
