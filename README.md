@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [1203-sort-items-by-groups-respecting-dependencies](https://github.com/vishnu062006/leetcode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/vishnu062006/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
@@ -355,11 +356,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1203-sort-items-by-groups-respecting-dependencies](https://github.com/vishnu062006/leetcode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/vishnu062006/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/vishnu062006/leetcode/tree/master/0322-coin-change) |
+| [1203-sort-items-by-groups-respecting-dependencies](https://github.com/vishnu062006/leetcode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1345-jump-game-iv](https://github.com/vishnu062006/leetcode/tree/master/1345-jump-game-iv) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/vishnu062006/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Recursion
@@ -379,4 +382,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/vishnu062006/leetcode/tree/master/0062-unique-paths) |
+## Topological Sort
+|  |
+| ------- |
+| [1203-sort-items-by-groups-respecting-dependencies](https://github.com/vishnu062006/leetcode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 <!---LeetCode Topics End-->
