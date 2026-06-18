@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/vishnu062006/leetcode/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/vishnu062006/leetcode/tree/master/0788-rotated-digits) |
 | [1323-maximum-69-number](https://github.com/vishnu062006/leetcode/tree/master/1323-maximum-69-number) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/vishnu062006/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1622-fancy-sequence](https://github.com/vishnu062006/leetcode/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/vishnu062006/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2485-find-the-pivot-integer](https://github.com/vishnu062006/leetcode/tree/master/2485-find-the-pivot-integer) |
