@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vishnu062006/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/vishnu062006/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vishnu062006/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1833-maximum-ice-cream-bars](https://github.com/vishnu062006/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/vishnu062006/leetcode/tree/master/1840-maximum-building-height) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/vishnu062006/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/vishnu062006/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/vishnu062006/leetcode/tree/master/0455-assign-cookies) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/vishnu062006/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/vishnu062006/leetcode/tree/master/1323-maximum-69-number) |
+| [1833-maximum-ice-cream-bars](https://github.com/vishnu062006/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vishnu062006/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/vishnu062006/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/vishnu062006/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/vishnu062006/leetcode/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/vishnu062006/leetcode/tree/master/0455-assign-cookies) |
+| [1833-maximum-ice-cream-bars](https://github.com/vishnu062006/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/vishnu062006/leetcode/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/vishnu062006/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/vishnu062006/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -456,4 +459,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/vishnu062006/leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/vishnu062006/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
