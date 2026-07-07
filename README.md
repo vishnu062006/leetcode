@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/vishnu062006/leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/vishnu062006/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/vishnu062006/leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/vishnu062006/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/vishnu062006/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/vishnu062006/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Heap (Priority Queue)
