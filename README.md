@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/vishnu062006/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/vishnu062006/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1345-jump-game-iv](https://github.com/vishnu062006/leetcode/tree/master/1345-jump-game-iv) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vishnu062006/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/vishnu062006/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vishnu062006/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/vishnu062006/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vishnu062006/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/vishnu062006/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vishnu062006/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vishnu062006/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/vishnu062006/leetcode/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/vishnu062006/leetcode/tree/master/0455-assign-cookies) |
 | [1288-remove-covered-intervals](https://github.com/vishnu062006/leetcode/tree/master/1288-remove-covered-intervals) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vishnu062006/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/vishnu062006/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/vishnu062006/leetcode/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vishnu062006/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
