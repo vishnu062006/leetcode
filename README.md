@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/vishnu062006/leetcode/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/vishnu062006/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/vishnu062006/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vishnu062006/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/vishnu062006/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/vishnu062006/leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/vishnu062006/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/vishnu062006/leetcode/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/vishnu062006/leetcode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/vishnu062006/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vishnu062006/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/vishnu062006/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/vishnu062006/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3488-closest-equal-element-queries](https://github.com/vishnu062006/leetcode/tree/master/3488-closest-equal-element-queries) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/vishnu062006/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/vishnu062006/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2573-find-the-string-with-lcp](https://github.com/vishnu062006/leetcode/tree/master/2573-find-the-string-with-lcp) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vishnu062006/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/vishnu062006/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/vishnu062006/leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/vishnu062006/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/vishnu062006/leetcode/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/vishnu062006/leetcode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/vishnu062006/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vishnu062006/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/vishnu062006/leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vishnu062006/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/vishnu062006/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -451,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/vishnu062006/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/vishnu062006/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2833-furthest-point-from-origin](https://github.com/vishnu062006/leetcode/tree/master/2833-furthest-point-from-origin) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vishnu062006/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/vishnu062006/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vishnu062006/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String Matching
