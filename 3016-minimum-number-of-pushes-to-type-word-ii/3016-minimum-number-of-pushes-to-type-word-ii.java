@@ -13,8 +13,7 @@ class Solution {
         int cnt = 0;
 
         for (int i = 25; i >= 0; i--) {
-            if (freq[i] == 0) 
-                break;
+            if (freq[i] == 0) break;
 
             ans += freq[i] * push;
             cnt++;
