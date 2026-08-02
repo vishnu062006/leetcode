@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/vishnu062006/leetcode/tree/master/0494-target-sum) |
 | [0739-daily-temperatures](https://github.com/vishnu062006/leetcode/tree/master/0739-daily-temperatures) |
 | [0874-walking-robot-simulation](https://github.com/vishnu062006/leetcode/tree/master/0874-walking-robot-simulation) |
+| [0877-stone-game](https://github.com/vishnu062006/leetcode/tree/master/0877-stone-game) |
 | [1288-remove-covered-intervals](https://github.com/vishnu062006/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/vishnu062006/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1345-jump-game-iv](https://github.com/vishnu062006/leetcode/tree/master/1345-jump-game-iv) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/vishnu062006/leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/vishnu062006/leetcode/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/vishnu062006/leetcode/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/vishnu062006/leetcode/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/vishnu062006/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/vishnu062006/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/vishnu062006/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/vishnu062006/leetcode/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/vishnu062006/leetcode/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/vishnu062006/leetcode/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/vishnu062006/leetcode/tree/master/0877-stone-game) |
 | [1323-maximum-69-number](https://github.com/vishnu062006/leetcode/tree/master/1323-maximum-69-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/vishnu062006/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1622-fancy-sequence](https://github.com/vishnu062006/leetcode/tree/master/1622-fancy-sequence) |
@@ -542,4 +545,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/vishnu062006/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vishnu062006/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vishnu062006/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/vishnu062006/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
