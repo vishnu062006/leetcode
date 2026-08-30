@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/vishnu062006/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2073-time-needed-to-buy-tickets](https://github.com/vishnu062006/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/vishnu062006/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/vishnu062006/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/vishnu062006/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/vishnu062006/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/vishnu062006/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vishnu062006/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vishnu062006/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/vishnu062006/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/vishnu062006/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/vishnu062006/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2573-find-the-string-with-lcp](https://github.com/vishnu062006/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vishnu062006/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
